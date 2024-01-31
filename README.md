@@ -48,5 +48,22 @@ Control Unit:
 ![Screenshot (859)](https://github.com/EngAhmed21/RISC-V-Multi-Cycle-Processor/assets/90782588/a501bc29-635e-4907-9cb8-71608940d3d3)
 
 
+Simulation using QuestaSim:                                                                                                                                                                                                                                                                                                                                                                                                 
+
+![Screenshot (861)](https://github.com/EngAhmed21/RISC-V-Multi-Cycle-Processor/assets/90782588/b782986a-2441-447e-a5b6-c6a58f0ee67d)
+
+
+![image](https://github.com/EngAhmed21/RISC-V-Multi-Cycle-Processor/assets/90782588/c1f8ffbc-558a-44c9-86a6-38cd704e26f1)
+
+
+
+Elaboration Design using VIVADO:                                                                                                                                                                                                                                            
+
+![Screenshot (848)](https://github.com/EngAhmed21/RISC-V-Multi-Cycle-Processor/assets/90782588/7313d7cf-65dd-4b61-a2c0-2b5476270354)
+
+
+Synthesis using VIVADO:
+
+![Screenshot (850)](https://github.com/EngAhmed21/RISC-V-Multi-Cycle-Processor/assets/90782588/ddf0e84a-1436-47bf-b03c-32be5abf2746)
 
    
